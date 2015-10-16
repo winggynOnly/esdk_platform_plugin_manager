@@ -1,0 +1,2 @@
+# esdk_platform_plugin_manager
+eSDK平台工程，提供插件管理能力，各业务代码基于平台运行
