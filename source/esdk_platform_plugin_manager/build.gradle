@@ -1,0 +1,6 @@
+addDependentProject(project, "compile", "esdk_platform_common")
+addDependentProject(project, "compile", "esdk_platform_plugin_interface")
+
+dependencies {
+	compile ':log4j:1.2.16'
+}
